@@ -19,16 +19,6 @@
 {"id":17,"movies_title":"Rocky IV","genre":"Action|Drama","year_release":1996},
 {"id":18,"movies_title":"The Legend of Awesomest Maximus","genre":"Action|Comedy","year_release":2008},
 {"id":19,"movies_title":"Things I Like, Things I Don't Like (Foutaises)","genre":"Comedy","year_release":2009},
-{"id":20,"movies_title":"Addicted to Plastic","genre":"Documentary","year_release":2012},
-{"id":21,"movies_title":"Son of Paleface","genre":"Action|Comedy|Romance|Western","year_release":2007},
-{"id":22,"movies_title":"Happy Go Lovely","genre":"Musical","year_release":2005},
-{"id":23,"movies_title":"Il cappotto di legno","genre":"(no genres listed)","year_release":1985},
-{"id":24,"movies_title":"Hanzo the Razor: Sword of Justice (Goyôkiba)","genre":"Action","year_release":2005},
-{"id":25,"movies_title":"Freeheld","genre":"Documentary","year_release":1991},
-{"id":26,"movies_title":"Teheran 43: Spy Ring (a.k.a. Assassination Attempt) (Tegeran-43)","genre":"Action|Crime|Drama|Thriller","year_release":1989},
-{"id":27,"movies_title":"Repo Men","genre":"Action|Sci-Fi|Thriller","year_release":2009},
-{"id":28,"movies_title":"Maiden Heist, The","genre":"Comedy|Crime","year_release":1998},
-{"id":29,"movies_title":"Joyride","genre":"Drama","year_release":2011},
-{"id":30,"movies_title":"Off the Map","genre":"Comedy|Drama","year_release":2013} 
+{"id":20,"movies_title":"Addicted to Plastic","genre":"Documentary","year_release":2012}
   ]
 }
