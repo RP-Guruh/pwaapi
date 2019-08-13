@@ -1,4 +1,5 @@
-[
+{
+  "movies: [
 {"id":1,"movies_title":"Broken Arrow","genre":"Drama|Romance|Western","year_release":1998},
 {"id":2,"movies_title":"Margot at the Wedding","genre":"Drama","year_release":1996},
 {"id":3,"movies_title":"Billy's Hollywood Screen Kiss","genre":"Comedy|Romance","year_release":2010},
@@ -50,3 +51,4 @@
 {"id":49,"movies_title":"Lilla Jönssonligan och Cornflakeskuppen","genre":"Children|Comedy","year_release":2000},
 {"id":50,"movies_title":"My Lady Margarine (Die Austernprinzessin) (Oyster Princess, The)","genre":"Comedy","year_release":2002}
 ]
+}
